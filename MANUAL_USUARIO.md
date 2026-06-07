@@ -1011,10 +1011,10 @@ BIDFOR ha revolucionado la gestión de centros de costos en BIDFOR SAS:
 ### Capacitación y Soporte
 
 Para preguntas adicionales:
-- **Equipo de Soporte:** [contacto@bidfor.com]
+- **Equipo de Soporte:** [bidforhackathon@gmail.com]
 - **Documentación:** Este manual (siempre disponible)
-- **Video Tutoriales:** [enlace a videos]
-- **Chat en Vivo:** [enlace a chat de soporte]
+- **Video Tutoriales:** [[enlace a videos]](https://drive.google.com/drive/folders/1xQIOkNvmvmFJgToeCNUdOKKRTLPALlod)
+
 
 ### Reconocimiento
 
