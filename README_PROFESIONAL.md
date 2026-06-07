@@ -132,7 +132,7 @@ En BIDFOR SAS, la gestión manual de facturas consumía **3 horas semanales** po
 
 ```bash
 # 1. Clonar repositorio
-git clone https://github.com/bidfor-sas/bidfor-costos.git
+git clone https://github.com/edwingiraldosoto/bidfor-costos-IA.git
 cd bidfor-costos
 
 # 2. Instalar dependencias
@@ -204,23 +204,23 @@ npm run dev
 
 ```
 ┌─────────────────────────────────────────┐
-│  Frontend (React + Vite)               │
+│  Frontend (React + Vite)                │
 │  localhost:5177                         │
 └────────────────┬────────────────────────┘
                  │ HTTP/REST
 ┌────────────────▼────────────────────────┐
-│  Proxy Server (Node.js)                │
-│  localhost:3001 - CORS Handling        │
+│  Proxy Server (Node.js)                 │
+│  localhost:3001 - CORS Handling         │
 └────────────────┬────────────────────────┘
                  │ HTTPS
 ┌────────────────▼────────────────────────┐
-│  Claude API (Anthropic)               │
-│  Análisis de documentos                │
+│  Claude API (Anthropic)                 │
+│  Análisis de documentos                 │
 └─────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────┐
-│  Backend (Supabase)                    │
-│  PostgreSQL + Storage + Auth           │
+│  Backend (Supabase)                     │
+│  PostgreSQL + Storage + Auth            │
 └─────────────────────────────────────────┘
 ```
 
@@ -385,7 +385,6 @@ bidfor-costos/
 ### Dashboards Recomendados
 
 - **Supabase Dashboard:** https://app.supabase.com
-- **Vercel Dashboard:** https://vercel.com (si está deployado)
 - **Claude API Usage:** https://console.anthropic.com
 
 ### Alertas
@@ -402,7 +401,7 @@ El sistema registra automáticamente:
 
 ### Reportar Issues
 
-[Crear issue en GitHub](https://github.com/bidfor-sas/bidfor-costos/issues)
+[Crear issue en GitHub] (https://github.com/edwingiraldosoto/bidfor-costos-IA/issues)
 
 Incluir:
 - Descripción clara del problema
@@ -427,11 +426,11 @@ Proprietary - Derechos reservados BIDFOR SAS 2026
 
 ## Desarrolladores
 
-- **Yamile Judith Ladeutt Herazo** - Backend
-- **Mariluz Cano Arboleda** - Base de Datos
-- **Jhaivlenne Gutierrez Figueroa** - Frontend
-- **Juan Jose Peña Villa** - Frontend
-- **Edwin Giraldo Soto** - Arquitectura
+- **Yamile Judith Ladeutt Herazo** - QA
+- **Mariluz Cano Arboleda** - Analista
+- **Jhaivlenne Gutierrez Figueroa** - Usuario Funcional
+- **Juan Jose Peña Villa** - Analista
+- **Edwin Giraldo Soto** - Arquitectura-Desarrollador
 
 **Mentor:** Santiago Arredondo Vergara
 
