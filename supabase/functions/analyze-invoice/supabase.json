@@ -1,0 +1,8 @@
+{
+  "functions": [
+    {
+      "importMapPath": "../_shared/import_map.json",
+      "excludeImportMap": true
+    }
+  ]
+}
