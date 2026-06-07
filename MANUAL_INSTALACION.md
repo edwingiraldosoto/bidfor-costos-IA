@@ -175,7 +175,7 @@ git --version
 
 ```bash
 # Opción A: Clonar desde GitHub (si está disponible)
-git clone https://github.com/bidfor-sas/bidfor-costos.git
+git clone https://github.com/edwingiraldosoto/bidfor-costos-IA.git
 cd bidfor-costos
 
 # Opción B: Si no está en GitHub, descargar ZIP y extraer
